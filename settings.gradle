@@ -1,0 +1,2 @@
+rootProject.name='get gps and send email'
+include ':app'
